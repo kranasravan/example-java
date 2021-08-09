@@ -6,7 +6,7 @@
 
 ## Guide
 
-### Travis Setup
+### Travis Setup of the report
 
 Add the following to your `.travis.yml`:
 ```yml
